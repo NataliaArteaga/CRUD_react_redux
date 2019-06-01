@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Carne",
+      "precio": "5000",
+      "id": 11
+    },
+    {
+      "nombre": "Pollo",
+      "precio": "7000",
+      "id": 12
+    },
+    {
+      "nombre": "Pastas",
+      "precio": "3000",
+      "id": 13
+    },
+    {
+      "nombre": "Lentejas",
+      "precio": "2000",
+      "id": 14
+    }
+  ]
+}
